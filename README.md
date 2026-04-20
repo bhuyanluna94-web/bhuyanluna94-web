@@ -6,7 +6,7 @@
 ### Electronics & Communication Engineer &nbsp;|&nbsp; she/her 
 
 <!-- Typing animation: steel blue -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A9FC0&center=true&vCenter=true&width=620&lines=Hello+World!+I'm+Abiksha+👋;Electronics+%26+Communication+Engineer+🔧;Exploring+Verilog+%7C+VHDL+%7C+ARM+💻;Hardware+meets+elegance+;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A9FC0&center=true&vCenter=true&width=620&lines=I'm+Abiksha+👋;Electronics+%26+Communication+Engineer+🔧;Exploring+Verilog+%7C+VHDL+%7C+ARM+💻;Hardware+meets+elegance+;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
 <br/>
 
